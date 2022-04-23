@@ -1,0 +1,22 @@
+{
+    "projects": [],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Marketing"
+        },
+        {
+            "id": 2,
+            "name": "Software"
+        },
+        {
+            "id": 3,
+            "name": "Hardware"
+        },
+        {
+            "id": 4,
+            "name": "Network"
+        }
+    ]
+
+}
